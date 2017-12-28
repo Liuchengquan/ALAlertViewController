@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.description  = <<-DESC
   	# 一个简单的AlertViewControllerAPI大致同系统UIAlertViewController相同，可以进行自定义 背景颜色，按钮控件。
 
-  s.homepage     = "http://EXAMPLE/ALAlertViewController"
+  s.homepage     = "https://github.com/Liuchengquan/ALAlertViewController.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
+  s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
